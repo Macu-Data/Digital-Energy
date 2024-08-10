@@ -1,7 +1,7 @@
 **Proyecto Integrador - Digital House**
 
 <h1 align="center">DIGITAL ENERGY</h1>
-<h1 align="center">PROYECTO DE COMERCIALIZACIÓN DE HIDROCARBUROS Y DERIVADOS</h1>
+<h1 align="center">COMERCIALIZACIÓN DE HIDROCARBUROS Y DERIVADOS</h1>
 
 <p align="center">
   <img width="400" height="400" src="Imagen/LOGO.png" alt="Logo de digital energy">
