@@ -1,6 +1,3 @@
-# Digital-Energy
-
-
 **Proyecto Integrador - Digital House**
 
 <h1 align="center">DIGITAL ENERGY</h1>
@@ -11,18 +8,16 @@
 </p>
 
 ## Descripción del proyecto
-Completar
+Digital Energy es una empresa argentina especializada en la extracción y comercialización de hidrocarburos y derivados. En la actualidad, estamos en un proceso de expansión y exploración de nuevos mercados internacionales para diversificar nuestras operaciones y aprovechar nuevas oportunidades de crecimiento. 
 
-## 🎯 Objetivos
-Completar
-
+## 🎯 Objetivo
+El proyecto tiene como objetivo analizar indicadores clave y evaluar mercados potenciales para determinar las regiones y países más atractivos para realizar inversiones estratégicas.
 
 
 ## 🛠️ Herramientas implementadas 
 - **Power BI :**  Para la visualización y análisis de datos.
 - **PowerPoint :**  Para la creación de presentaciones de resultados.
 - **Canva :**  Para el diseño de elementos gráficos.
-
 
 ## Contenidos del Proyecto
 
@@ -47,13 +42,11 @@ Completar
 
 
 ## 📢 Conclusiones clave
-Este proyecto analiza datos de abandono de carrito en un sitio web de comercio electrónico. El objetivo fue identificar factores que influyen en la decisión de completar o abandonar las compras, para implementar mejoras que aumenten la tasa de conversión.
+Análisis Estratégico para la Expansión Internacional: Identificación de Mercados Clave y Oportunidades de Crecimiento para Digital Energy.
 
-- **Relación entre Calificación y Ventas:** Se observa una correlación positiva entre las calificaciones de los productos y el volumen de ventas. Las opiniones favorables de los clientes influyen significativamente en sus decisiones de compra. Por lo tanto, mantener una alta calidad en los productos y proporcionar un excelente servicio al cliente son aspectos cruciales para obtener calificaciones positivas y, consecuentemente, incrementar las ventas.
-
-- **Frecuencia de Finalización del Carrito:** Un número considerable de usuarios no completa la compra después de añadir productos al carrito. Esto sugiere la existencia de barreras como la posibilidad de encontrar mejores precios en otros lugares o la pérdida de interés en el producto. Identificar y eliminar estos obstáculos es fundamental para mejorar la tasa de conversión, lo que puede resultar en un aumento de los ingresos y una mayor satisfacción del cliente.
-
-
+- **Plazas Internacionales de Interés:** La región Asia-Pacífico, con un enfoque en China y Japón, y América del Norte, con un enfoque en Canadá, presentan oportunidades significativas debido a su alta demanda energética, crecimiento económico sostenido y ubicación estratégica.
+- **Estrategia de Expansión:** La combinación de reservas abundantes en Canadá y la demanda creciente en China y Japón nos permitirá posicionarnos estratégicamente en mercados clave, reducir costos logísticos y ofrecer precios competitivos.
+- **Análisis FODA:** Hemos llevado a cabo un análisis FODA que ha permitido identificar las Fortalezas, Oportunidades, Debilidades y Amenazas tanto internas como externas para Digital Energy. Este análisis ha facilitado la comprensión de cómo nuestras fortalezas se pueden utilizar para aprovechar las oportunidades del mercado, mientras abordamos nuestras debilidades y enfrentamos las amenazas externas.
 
 
-**¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean útiles para mejorar la experiencia de compra en línea y reducir el abandono de carritos.**
+**¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean valiosos para comprender mejor las estrategias de expansión internacional y mejorar la toma de decisiones en el ámbito de los hidrocarburos.**
