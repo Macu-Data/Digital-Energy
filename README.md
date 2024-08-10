@@ -24,21 +24,26 @@ El proyecto tiene como objetivo analizar indicadores clave y evaluar mercados po
 ### 📊 Dashboard
 **Descripción:** Visualización interactiva de los datos relacionados con el abandono del carrito.
 
-- **Archivo principal:** [`Abandono_Carrito_AMAZON_NoCountry (Power BI)`](Dashboard/Abandono_Carrito_AMAZON_NoCountry.pbix)
+- **Archivo principal:** [`(Power BI)`](Dashboard)
 - **Capturas de pantalla:** [`Imágenes de cada solapa del dashboard de Power BI para una visualización rápida.`](Dashboard)
 
 ### 📂 Data
 **Descripción:** Conjunto de datos y documentación relacionada con el proceso de transformación de datos.
 
-- **Dataset original:** [`Amazon Customer Behavior Survey`](Data)
-- **ETL:** [`Amazon Customer Behavior Survey ETL`](Data) - Documento que detalla los pasos de Extracción, Transformación y Carga (ETL) realizados para preparar los datos para el análisis.
+- **Dataset original:** [`Archivos`](Data)
+
+-**Modelo DER**
+
+<p align="center">
+  <img width="800" height="400" src="Imagen/Modelo DER y Enterprise DW Bus.png" alt="Modelo DER">
+</p>
 
 </div>
  
 ### 📑 Presentation
 **Descripción:** Informe final con conclusiones y recomendaciones basadas en los datos analizados.
 
-- **Presentación:** [`NoCountry_c19_111_m_data_BI`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
+- **Presentación:** [`Presentación`](Presentation) - PowerPoint que incluye un análisis detallado de las problemáticas detectadas y las posibles soluciones propuestas.
 
 
 ## 📢 Conclusiones clave
@@ -48,5 +53,8 @@ Análisis Estratégico para la Expansión Internacional: Identificación de Merc
 - **Estrategia de Expansión:** La combinación de reservas abundantes en Canadá y la demanda creciente en China y Japón nos permitirá posicionarnos estratégicamente en mercados clave, reducir costos logísticos y ofrecer precios competitivos.
 - **Análisis FODA:** Hemos llevado a cabo un análisis FODA que ha permitido identificar las Fortalezas, Oportunidades, Debilidades y Amenazas tanto internas como externas para Digital Energy. Este análisis ha facilitado la comprensión de cómo nuestras fortalezas se pueden utilizar para aprovechar las oportunidades del mercado, mientras abordamos nuestras debilidades y enfrentamos las amenazas externas.
 
+<p align="center">
+  <img width="800" height="400" src="Imagen/Analisis FODA.png" alt="Análisis FODA">
+</p>
 
 **¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean valiosos para comprender mejor las estrategias de expansión internacional y mejorar la toma de decisiones en el ámbito de los hidrocarburos.**
