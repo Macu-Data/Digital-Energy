@@ -54,7 +54,7 @@ Análisis Estratégico para la Expansión Internacional: Identificación de Merc
 - **Análisis FODA:** Hemos llevado a cabo un análisis FODA que ha permitido identificar las Fortalezas, Oportunidades, Debilidades y Amenazas tanto internas como externas para Digital Energy. Este análisis ha facilitado la comprensión de cómo nuestras fortalezas se pueden utilizar para aprovechar las oportunidades del mercado, mientras abordamos nuestras debilidades y enfrentamos las amenazas externas.
 
 <p align="center">
-  <img width="800" height="400" src="Imagen/Analisis FODA.png" alt="Análisis FODA">
+  <img width="600" height="400" src="Imagen/Analisis FODA.png" alt="Análisis FODA">
 </p>
 
 **¡Gracias por revisar nuestro proyecto! Esperamos que nuestros análisis y recomendaciones sean valiosos para comprender mejor las estrategias de expansión internacional y mejorar la toma de decisiones en el ámbito de los hidrocarburos.**
